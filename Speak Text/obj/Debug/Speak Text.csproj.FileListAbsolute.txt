@@ -1,0 +1,12 @@
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\obj\Debug\Speak Text.csprojAssemblyReference.cache
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\obj\Debug\Interop.SpeechLib.dll
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\obj\Debug\Speak Text.csproj.ResolveComReference.cache
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\obj\Debug\Speak_Text.Form1.resources
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\obj\Debug\Speak_Text.Properties.Resources.resources
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\obj\Debug\Speak Text.csproj.GenerateResource.cache
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\obj\Debug\Speak Text.csproj.CoreCompileInputs.cache
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\bin\Debug\Speak Text.exe.config
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\bin\Debug\Speak Text.exe
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\bin\Debug\Speak Text.pdb
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\obj\Debug\Speak Text.exe
+C:\Users\MuradPc\source\repos\Speak Text\Speak Text\obj\Debug\Speak Text.pdb
